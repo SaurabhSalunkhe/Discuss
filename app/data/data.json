@@ -1,11 +1,21 @@
 {
-  "experts": [{
-    "title" : "Saurabh",
-    "name": "Saurabh",
-    "shortname" : "Saurabh",
-    "summary" : "",
-    "description":"",
-    "artwork": [""]
+  "speakers": [{
+    "title" : "Data Scientist",
+    "name": "Mayank Jain",
+    "shortname" : "Lorenzo_Garcia",
+    "summary" : "Data Scientist",
+    "description": "<p>Mayank - Data Scientist.</p>"
+  },{
+    "title" : "Software Developer",
+    "name": "Kunal Shelke",
+    "shortname" : "Hillary_Goldwynn",
+    "summary" : "Software Developer",
+    "description": "<p>Kunal - Software Developer</p>"
+  },{
+    "title" : "Chief Technical Officer",
+    "name": "Saurabh Salunkhe",
+    "shortname" : "Riley_Rewington",
+    "summary" : "Chief Technical Officer",
+    "description": "<p>Saurabh - Chief Officer</p>"
   }]
-  }
-  
+}
